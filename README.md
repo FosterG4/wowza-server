@@ -10,6 +10,8 @@ https://www.wowza.com/downloads/WowzaStreamingEngine-4-5-0/WowzaStreamingEngine-
 Linux 32 Bit:
 https://www.wowza.com/downloads/WowzaStreamingEngine-4-5-0/WowzaStreamingEngine-4.5.0-linux-installer.run
 
+Linux 64 Bit: 4.8.27-B5
+https://fosterg4.s3.ap-southeast-1.amazonaws.com/WowzaStreamingEngine-4.8.27%2B5-linux-x64-installer.run
 
 Installation:
 **************
